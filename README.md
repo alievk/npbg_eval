@@ -38,7 +38,7 @@ scene
 It will output paths to created \*.ply files.
 
 ## Photogrammetry
-Download Plant and Shoe scenes from [link]. These scenes where built using Samsung S10 camera and Agisoft Metashape.
+Download Plant and Shoe scenes from [here](https://yadi.sk/d/TBCt28HKwi46yg). These scenes where built using Samsung S10 camera and Agisoft Metashape.
 
 Folder structure:
 ```
@@ -51,7 +51,7 @@ scene
 ```
 
 # Results
-Download results from [link]
+Download results from [here](https://yadi.sk/d/IdoFue9FTsGcUQ).
 
 Folder structure:
 ```
@@ -75,3 +75,4 @@ scene
 ```
 
 # License
+The data is released under the CC BY-SA 3.0 license, and the code is released under the MIT license.
