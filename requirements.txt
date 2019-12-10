@@ -1,0 +1,7 @@
+# python-open3d
+open3d-python
+tqdm
+numpy
+pillow
+opencv-python
+pandas
